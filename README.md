@@ -2,6 +2,12 @@
 
 Upload a photo or PDF of a hospital discharge summary and Saral explains it in simple words in your own language, reads it aloud, and answers spoken questions about it. Built on Sarvam AI.
 
+## Demo
+
+[![Saral reading a discharge summary, explaining it and answering questions](demo/saral-demo.gif)](demo/saral-demo.mp4)
+
+The preview above is silent and plays at double speed. [Watch the full demo with sound](demo/saral-demo.mp4) (1.5 minutes).
+
 ## Run it
 
 ```
